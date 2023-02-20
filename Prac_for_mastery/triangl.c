@@ -21,6 +21,7 @@ int main()
 	
 	//return 0;
 
+
 		{
 			for(j = 0; j <= 10; j++)
 	{
@@ -30,12 +31,15 @@ int main()
 	}
 		}
 	//return 0;
+		
+		
 		{
 			for(j = 0; j < 10; j++)
 			{
-				for(i = 0; i < 10; i++)
+				for(i = 1; i <= 10; i++)
 					printf("&& ");
 				putchar('\n');
+			
 			}
 		}
 		return 0;

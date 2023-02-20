@@ -1,0 +1,36 @@
+o1 #include <stdio.h> --> link section
+
+2 void main() --> main section
+
+3 { 
+	printf("hello world");
+	--> body of main funtion
+3 }
+
+#include <stdio.h>
+#include <conio.h>
+
+4 #define MAX 100 --> constants definition section
+
+5 int a = 50; --> global vallue decleration
+5 void display(); --> global vallue decleration
+
+2 void main() --> nain section
+{
+	printf ("hello, world");
+} 
+
+6 display; --> function call
+
+7 void display() --> sub program section
+
+{
+	printf("Jennys lecture");
+}
+			Comstants in C
+Numeric constant-->(Integer && Floating constants)
+Character constants-->(Single character && String constants)
+Types of data types
+Primary data types-->(int,float,char,double,void)
+Derived data types-->(array, structure, union, pointer)
+User defined data type-->(typdef, enumerated)
