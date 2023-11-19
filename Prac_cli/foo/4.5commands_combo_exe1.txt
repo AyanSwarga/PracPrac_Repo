@@ -1,0 +1,1 @@
+mkdir foo && cd foo && echo baz > bar && cat bar && cd

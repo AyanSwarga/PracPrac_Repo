@@ -1,0 +1,4 @@
+less sonnets.txt --> enter
+/roses --> enter
+2203G --> enter
+#2203 is actually the required number for this exercise. it can be any number n (nG)

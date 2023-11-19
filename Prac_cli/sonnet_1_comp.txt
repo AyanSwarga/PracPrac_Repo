@@ -1,0 +1,3 @@
+By copying and pasting the text from the HTML version of Figure 15, use
+echo to make a file called sonnet_1_complete.txt containing the
+full (original) text of Shakespeare’s first sonnet. Hint: You may recall

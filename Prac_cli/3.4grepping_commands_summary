@@ -1,0 +1,30 @@
+
+ Command			Description				Example
+
+# curl				Interact with URLs 			$ curl -O example.com
+
+# which 			Locate a program on the path 		$ which curl
+
+# head <file> 			Display first part of file 		$ head foo
+
+# tail <file> 			Display last part of file 		$ tail bar
+
+# wc <file> 			Count lines, words, bytes 		$ wc foo
+
+# cmd1 | cmd2 			Pipe cmd1 to cmd2 			$ head foo | wc
+
+# less <file> 			View file contents interactively 	$ less foo
+
+# grep <string> <file> 		Find string in file 			$ grep foo bar.txt
+
+# grep -i <string> <file> 	Find case-insensitively 		$ grep -i foo bar.txt
+
+# ps 				Show processes 				$ ps aux
+
+# top 				Show processes (sorted) 		$ top
+
+# kill -15 <pid> 		Kill a process 				$ kill -9 24601
+
+# pkill -15 -f <name> 		Kill matching processes 		$ pkill -9 -f spring
+
+Table 4: Important commands from Section 3.

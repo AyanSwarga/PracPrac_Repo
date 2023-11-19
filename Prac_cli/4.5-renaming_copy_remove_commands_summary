@@ -1,0 +1,29 @@
+	Command 		Description 				Example
+
+# mkdir	<name> 			Make directory with name 		$ mkdir foo
+
+# pwd 				Print working directory 		$ pwd
+
+# cd <dir> 			Change to <dir> 			$ cd foo/
+
+# cd ~/<dir> 			cd relative to home 			$ cd ~/foo/
+
+# cd 				Change to home directory 		$ cd
+
+# cd - 				Change to previous directory 		$ cd && pwd && cd -
+
+# . 				The current directory 			$ cp ~/foo.txt .
+
+# .. 				One directory up 			$ cd ..
+
+# find 				Find files & directories 		$ find . -name foo*.*
+
+# cp -r <old> <new> 		Copy recursively 			$ cp -r ~/foo .
+
+# rmdir <dir> 			Remove (empty) dir 			$ rmdir foo/
+
+# rm -rf <dir>	 		Remove dir & contents 			$ rm -rf foo/
+
+# grep -ri <string> <dir> 	Grep recursively (case-insensitive) 	$ grep -ri foo bar/
+
+Table 5: Important commands from Section 4.
